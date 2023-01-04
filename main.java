@@ -28,7 +28,7 @@ public static void main(String [] args){
         for( char c : row){
             System.out.print(c);
         }
-        System.out.println();
+        System.out.println("kris");
     }
   }
 }
